@@ -21,6 +21,3 @@
 ## macOS
 
 - Follow the steps provided in the Downloads [Page](https://developer.hashicorp.com/terraform/downloads) for macOS.
-
-##checking for the updategit
-git 
